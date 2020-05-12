@@ -6,5 +6,5 @@ This is data is sampled from a 7 minute window for 4 days in May with the Twitte
 
 The Oxford COVID Policy Tracker has been used to supplement the Twitter data with a policy stringency index by county over time. More information about this data set can be found at https://covidtracker.bsg.ox.ac.uk and https://github.com/OxCGRT/covid-policy-tracker. The Oxford data was used to plot time series data of deaths with policy stringency changes shown in <b>Time Series Stringency Analysis Oxford.ipynb</b>. 
 
-Finally, both the Twitter and Oxford data have been plotted on a map for a specific day to see the Stringency Index by country and tweet sentiment by location (only for tweets in english) in <b>Geographical Analysis Twitter.ipynb</b> and <b>Geographical Analysis Oxford.ipynb</b> respectively. 
+Finally, both the Twitter and Oxford data have been plotted on a map for a specific day to see tweet sentiment by location (only for tweets in english) and Stringency Index by country in <b>Geographical Analysis Twitter.ipynb</b> and <b>Geographical Analysis Oxford.ipynb</b> respectively. 
 

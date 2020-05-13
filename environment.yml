@@ -1,11 +1,22 @@
-
-name: environment
+name: base
 channels:
-  - conda-forge
+  - defaults
 dependencies:
-  - python
-  - numpy
-  - pip
-  - pip:
-    - pandas
-    - matplotlib
+  - conda
+  - python=3.7
+  - python.app
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda
+  - anaconda-navigator
+  - navigator-updater
+  - tweepy
+  - matplotlib
+  - spyder
+  - geopandas
+  - descartes
+  - rise
+prefix: /Users/elenastein/opt/anaconda3
+

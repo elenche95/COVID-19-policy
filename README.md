@@ -9,3 +9,5 @@ The Oxford COVID Policy Tracker has been used to supplement the Twitter data wit
 Finally, both the Twitter and Oxford data have been plotted on a map for a specific day to see tweet sentiment by location (only for tweets in english) and Stringency Index by country in <b>Geographical Analysis Twitter.ipynb</b> and <b>Geographical Analysis Oxford.ipynb</b> respectively. 
 
 To further the analysis, linear regression could be used to predict the percentage change in death toll due to changes in policy stringency, or specific policy measures. NLP could be used to identify a list of the top salient terms by country by sentiment category to get better insight into policy reaction. Clustering algorithms could be used to group countries by patterns in policy behaviour over time and/or confirmed case numbers. 
+
+The <b>Combined_Analysis.ipynb</b> is the merged version of all ipython notebooks.

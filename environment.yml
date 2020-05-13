@@ -15,6 +15,7 @@ dependencies:
   - pandas
   - tweepy
   - matplotlib
+  - seaborn
   - spyder
   - geopandas
   - descartes

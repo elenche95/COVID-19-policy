@@ -2,7 +2,6 @@ name: COVID_env
 channels:
   - defaults
 dependencies:
-<<<<<<< HEAD
   - blas=1.0=mkl
   - ca-certificates=2020.1.1=0
   - certifi=2018.8.24=py35_1

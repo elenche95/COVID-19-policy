@@ -4,7 +4,6 @@ channels:
 dependencies:
   - conda
   - python=3.7
-  - python.app
   - conda-env
   - conda-build
   - conda-verify
@@ -22,6 +21,7 @@ dependencies:
   - rise
   - pip
   - pip:
+    - python.app
     - branca==0.4.0
     - folium==0.10.1
     - geographiclib==1.50

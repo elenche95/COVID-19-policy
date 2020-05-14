@@ -20,14 +20,15 @@ dependencies:
   - geopandas
   - descartes
   - rise
+  - pip
   - pip:
-   - branca==0.4.0
-   - folium==0.10.1
-   - geographiclib==1.50
-   - geopy==1.21.0
-   - missingno==0.4.2
-   - python-slugify==4.0.0
-   - text-unidecode==1.3
-   - urllib3==1.24.3
+    - branca==0.4.0
+    - folium==0.10.1
+    - geographiclib==1.50
+    - geopy==1.21.0
+    - missingno==0.4.2
+    - python-slugify==4.0.0
+    - text-unidecode==1.3
+    - urllib3==1.24.3
 prefix: /Users/elenastein/opt/anaconda3
 

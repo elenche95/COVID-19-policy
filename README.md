@@ -1,6 +1,4 @@
-# COVID-19-policy
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elenche95/COVID-19-policy/master)
+# COVID-19-policy [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elenche95/COVID-19-policy/master)
 
 This is an investigation into sentiment from tweets over time in response to COVID government policy decisions. This tool could be used for policy makers to assess public reaction to policy changes related to lockdown by using NLP to analyse language in tweets.
 

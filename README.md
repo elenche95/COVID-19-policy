@@ -1,6 +1,5 @@
 # COVID-19-policy
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elenche95/COVID-19-policy/Covid Tweets EDA.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elenche95/COVID-19-policy/blob/master/Covid%20Tweets%20EDA.ipynb)
 This is an investigation into sentiment from tweets over time in response to COVID government policy decisions. This tool could be used for policy makers to assess public reaction to policy changes related to lockdown by using NLP to analyse language in tweets.
 
 The Twitter data is sampled from a 7 minute window for 4 days in May with the Twitter API, from tweets containing the words related to COVID. Further analysis could use more tweets over a longer time period. Word usage and sentiment analysis are performed on a time series basis in an EDA <b>Covid Tweets EDA.ipynb</b>. 

@@ -42,7 +42,9 @@ dependencies:
     - cycler==0.10.0
     - fiona==1.8.13.post1
     - folium==0.11.0
+    - geographiclib==1.50
     - geopandas==0.7.0
+    - geopy==1.22.0
     - joblib==0.14.1
     - kiwisolver==1.2.0
     - markupsafe==1.1.1
